@@ -14,7 +14,8 @@ Finding the cube root.
 -------------------------------------------------------------------------------------------------------------------------------------------
 Operating requirements:
 The project can be run on any computer because it is small in size and does not require a large space or memory.
-
+This helps in understanding my project more and how it works. It is a flowcharts that makes it easier to understand how it works 
+- https://drive.google.com/file/d/1v7vo1HcJaR3QXnOpj8W1JxOeeOfYwXnM/view?usp=sharing 
 -------------------------------------------------------------------------------------------------------------------------------------------
 Contribution guide:
 We have some small conditions for accepting contributors
